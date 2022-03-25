@@ -1,7 +1,7 @@
 {
   "name": "portfolio_react",
   "version": "0.1.0",
-  "homepage": "https://leandroasalmeida.github.io/Portifolio_React/",
+  "homepage": "https://leandroasalmeida.github.io/Portfolio_React/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.26",
