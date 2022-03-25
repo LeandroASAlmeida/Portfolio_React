@@ -8,7 +8,7 @@ class About extends Component {
         <h4>Olá a todos!</h4>
         <h1>Sejam muito bem vindos!</h1>
         <h3>
-          Estudante<u> Developer</u>/ Futuro|Desenvolvedor <u>Web</u> Python🐍
+          Estudante<u> Developer</u>/ Futuro|Desenvolvedor <u>Web</u> /  Python
         </h3>
         <br></br>
         <p>
