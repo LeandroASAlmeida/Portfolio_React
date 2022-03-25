@@ -1,1 +1,7 @@
-# Portfolio_React
+
+
+$ npm install
+
+$ npm start
+
+
