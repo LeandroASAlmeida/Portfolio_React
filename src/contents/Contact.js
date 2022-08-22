@@ -13,7 +13,7 @@ class Contact extends Component {
             
 
             <Social/>
-            </div>
+      
             )
         }
     }
