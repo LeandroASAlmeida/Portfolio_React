@@ -9,10 +9,10 @@ class Contact extends Component {
             <h3>Fone: 47-98846-3582</h3>
 
             
-            <a  className="cv" href="https://drive.google.com/file/d/1gS86kT7x_LrhQinpbN9L3jI9TkxggKCu/view?usp=sharing" target='blank'>BAIXE MEU CV </a>
+            <a className="cv" href="https://drive.google.com/file/d/1gS86kT7x_LrhQinpbN9L3jI9TkxggKCu/view?usp=sharing" target='blank'>BAIXE MEU CV </a>
             
 
-            <Social />
+            <Social/>
             </div>
             )
         }
